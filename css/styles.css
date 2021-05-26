@@ -1,0 +1,10 @@
+h2.intro {
+  text-align:center;
+}
+p.intro {
+  text-decoration: dotted;
+  border: solid red 5px;
+}
+img.intro {
+  max-width: 100px;
+}
